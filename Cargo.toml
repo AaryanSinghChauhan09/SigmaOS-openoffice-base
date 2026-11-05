@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_openoffice_base"
+version = "0.1.0"
+edition = "2021"
+description = "OpenOffice Base database integration, SQL abstraction layer, and frontend query adapter"
+
+[lib]
+name = "sigmaos_openoffice_base"
+path = "src/lib.rs"

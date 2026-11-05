@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-openoffice-base"
+tier = 3
+stability = "stable"
+language = "rust"
+description = "OpenOffice Base database integration, SQL abstraction layer, and frontend query adapter"
+upstream = []
+
+[contract]
+provides = ['openoffice-base-engine', 'sql-dataset-adapter']
+depends_on = []
+
+[maturity]
+status = "Production"
+test_evidence = "Unit tested (AAA pattern)"
+next_milestone = "Ecosystem integration"
