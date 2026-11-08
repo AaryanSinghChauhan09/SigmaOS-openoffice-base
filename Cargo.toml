@@ -2,7 +2,8 @@
 name = "sigmaos_openoffice_base"
 version = "0.1.0"
 edition = "2021"
-description = "OpenOffice Base database integration, SQL abstraction layer, and frontend query adapter"
+license = "MIT"
+description = "SigmaOS openoffice-base component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_openoffice_base"
