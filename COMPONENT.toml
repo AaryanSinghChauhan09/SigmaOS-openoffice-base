@@ -3,7 +3,7 @@ name = "SigmaOS-openoffice-base"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "OpenOffice Base database integration, SQL abstraction layer, and frontend query adapter"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
